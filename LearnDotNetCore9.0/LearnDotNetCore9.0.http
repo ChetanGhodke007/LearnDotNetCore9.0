@@ -1,0 +1,6 @@
+@LearnDotNetCore9._0_HostAddress = http://localhost:5139
+
+GET {{LearnDotNetCore9._0_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
